@@ -1,0 +1,3 @@
+# Ignore Django database and cache files
+db.sqlite3
+my_site/__pycache__/db
